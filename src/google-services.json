@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031132721049",
+    "project_id": "appacessobreistech",
+    "storage_bucket": "appacessobreistech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031132721049:android:b33fd510252f8a4642ad08",
+        "android_client_info": {
+          "package_name": "app.BreisAcesso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031132721049-dft3nsggvmn3f3dk10n8hssjfi1pem12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXH7J03Jvhk2P-J1AUTyU1mxNys9OX4BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031132721049-dft3nsggvmn3f3dk10n8hssjfi1pem12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
